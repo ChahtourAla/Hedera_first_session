@@ -30,6 +30,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
   ```bash
    npm install
+  ```
 
 
 ### Configuration
