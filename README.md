@@ -26,11 +26,11 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 3. **Install dependencies**
 
-  Install the necessary Node.js packages:
-
-  ```bash
-   npm install
-  ```
+     Install the necessary Node.js packages:
+   
+     ```bash
+      npm install
+     ```
 
 
 ### Configuration
